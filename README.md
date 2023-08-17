@@ -1,4 +1,4 @@
-# .github
+#  DSA-and-leetCode
 
 <h1 align="center">Hi 👋, I'm Arhaan</h1>
 <h3 align="center">A passionate student and a developer from India</h3>
